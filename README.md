@@ -1,1 +1,2 @@
 # wordle
+Cieľom zadania je naprogramovať slovnú hru Wordle, ktorej zmyslom je uhádnuť utajené slovo v rámci stanoveného počtu pokusov. Hra musí byť napísaná v jazyku C vo forme konzolovej aplikácie. Program musí využívať len štandardné súčasti jazyka C (žiadne externé knižnice) a byť kompilovateľný prekladačom GCC. Vypracované zadanie by malo byť funkčné, esteticky vyzerajúce a kvalitne implementované.
